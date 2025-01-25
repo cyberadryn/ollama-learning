@@ -1,4 +1,4 @@
-# Ollama-learning
+# Ollama Learning Playgrounds
 
 ## Overview
 **Ollama Chatbot Learning** is a collection of Python scripts designed to help you get started with building and using chatbots powered by Ollama. The platform allows you to leverage large language models (LLMs) for creating conversational agents that can handle a variety of tasks. This repository includes simple, easy-to-follow scripts to guide you in creating chatbots for different purposes, from basic text interactions to more advanced, contextual conversations.
